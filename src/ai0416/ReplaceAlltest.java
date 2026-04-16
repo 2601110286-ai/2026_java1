@@ -32,7 +32,6 @@ public class ReplaceAlltest {
         System.out.print(s1.charAt(1));
         System.out.print(s1.charAt(0));
 
-
     }
 
 }
