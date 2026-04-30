@@ -12,7 +12,7 @@ public class RochCyserPaper {
 
         String[] computer = {"가위", "바위", "보"};
         Random random = new Random();
-        int randNum = random.nextInt(3)-1;
+        int randNum = random.nextInt(3);
         String computerChoice = computer[randNum];
 
         System.out.println("컴퓨터의 가위, 바위, 보: " +computerChoice);
